@@ -1,9 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-void add(int n,int m ,int a[][m],int p,int q,int b[][q],int c[][q])
-{
-    
-}
 void main()
 {
     int n,m,p,q;
