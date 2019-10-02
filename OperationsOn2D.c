@@ -9,7 +9,8 @@ void main()
     int n,m,p,q;
     input1(&n,&m);
     input1(&p,&q);
-    int a[n][m],b[p][q],c[10][10];
+    int a[n][m],b[p][q];
+    int c[10][10]={0};
     input2(n,m,a);
     input2(p,q,b);
     int choice;
