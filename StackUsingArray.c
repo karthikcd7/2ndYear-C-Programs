@@ -6,8 +6,8 @@ int stack[MAX];
 
 void push();
 void pop();
-coid peek();
-coid display();
+void peek();
+void display();
 void isfull();
 void isempty();
 
