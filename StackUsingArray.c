@@ -88,7 +88,7 @@ void peek()
     }
     else
     {
-        printf("deleted item is %d",stack[top]);
+        printf("item is %d",stack[top]);
     }
 }
 void display()
